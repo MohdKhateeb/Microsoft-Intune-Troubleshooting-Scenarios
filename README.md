@@ -1,4 +1,4 @@
-Microsoft-Intune-Troubleshooting-Scenarios
+# Microsoft-Intune-Troubleshooting-Scenarios
 
 A collection of common enterprise Microsoft Intune troubleshooting scenarios with root cause analysis and resolution steps. Ideal for IT pros, endpoint engineers, and anyone working with modern device management.
 
